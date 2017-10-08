@@ -821,7 +821,7 @@ HTTPS servers.
       
   + [PHP FPM](http://www.php-fpm.org "PHP FPM"), this requires you to
     configure your fpm setup, in Debian/Ubuntu this is done in the
-    `/etc/php5/fpm` directory.
+    `/etc/php/7.0/fpm/` directory.
        
     Look [here](https://github.com/perusio/php-fpm-example-config) for
     an **example configuration** of `php-fpm`.
